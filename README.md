@@ -1,2 +1,2 @@
-# 100_movies
-Make your own list of 100 beloved films/movies/docs
+# CÉNTO EDITÓRE | 100 EDITORS
+A Python Program to Appreciate the Magic of Film Editing and Movie Making
